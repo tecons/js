@@ -3,8 +3,15 @@
 * Python
 * Javascript
 
-~~~python
+~~~Python
   #código python
   def msg(x):
     print(x)
+ ~~~
+ 
+ ~~~javascript
+ // código javascript
+ 
+ const msg = (x) => console.log(x)
+ 
  ~~~
